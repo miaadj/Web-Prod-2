@@ -1,4 +1,4 @@
-let hour = new Date().getHours();
+let hour = 19;
    console.log(hour);
 
 let background = document.querySelector('body'); 
