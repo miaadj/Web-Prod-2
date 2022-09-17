@@ -1,0 +1,20 @@
+body {
+ text-align: center;
+ font-family: Georgia, serif;
+font-style: italic;
+background-color: #d5e6fe;
+}
+
+.header {
+  padding: 25px;
+  text-align: center;
+  background: #72baf1;
+  color: #c0576f;
+  font-size: 15px;
+}
+
+audio::-webkit-media-controls-play-button,
+     audio::-webkit-media-controls-panel {
+     background-color: #c0576f;
+     color:#d5e6fe;
+     }
