@@ -21,7 +21,7 @@ console.log('Love the shoes.');
          } 
   
 else if(princess === 'snow white' || princess == 'Snow White' || princess == 'Snow white'){
-document.getElementById('picture').innerHTML = '<img src=' + '"https://assets.stickpng.com/images/5874d04142e4d628738559ee.png"'+ '/>';
+document.getElementById('picture').innerHTML = '<img src=' + '"https://www.transparentpng.com/thumb/snow-white-png/snow-white-png-transparent-images--4.png"'+ '/>';
 document.getElementById('output').textContent = "She's alright.";
 console.log('She\'s alright.');      
          } 
